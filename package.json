@@ -1,0 +1,36 @@
+{
+  "name": "juststarted",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "axios": "^0.24.0",
+    "gsap": "^3.8.0",
+    "next": "12.0.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "react-tilt": "^0.1.4",
+    "swiper": "^6.8.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@types/node": "16.11.7",
+    "@types/react": "17.0.35",
+    "@types/styled-components": "^5.1.15",
+    "babel-loader": "^8.2.3",
+    "babel-plugin-styled-components": "^1.13.3",
+    "eslint": "7",
+    "eslint-config-next": "12.0.4",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.4.1",
+    "styled-components": "^5.3.3",
+    "typescript": "4.4.4"
+  }
+}
