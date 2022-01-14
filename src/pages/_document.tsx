@@ -48,6 +48,25 @@ export default class MyDocument extends Document {
             name="description"
             content="Site Desenvolvido em React.Js - Next.JS, com intuito de aprofundar a técnicas e conhecimentos avançados em programação, animação e a lib GSAP."
           />
+          <meta
+            property="og:title"
+            content="La Casa de Papel - Hiago Benitez"
+          />
+
+          <meta property="og:url" content="https://lacasa.hiagobenitez.com/" />
+          <meta
+            property="og:description"
+            content="Site Desenvolvido para estudo, conhecimento em GSAP, Next.JS - conceitos de Ux/Ui"
+          ></meta>
+          <meta
+            property="og:image"
+            content="https://www.kindpng.com/picc/m/763-7636587_la-casa-de-papel-icon-hd-png-download.png"
+          ></meta>
+          <meta property="og:type" content="article" />
+          <meta property="og:locale" content="en_GB" />
+          <meta property="og:locale:alternate" content="fr_FR" />
+          <meta property="og:locale:alternate" content="es_ES" />
+
           <meta itemProp="name" content="La Casa de Papel - Hiago Benitez" />
           <meta
             itemProp="description"
